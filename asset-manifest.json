@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.7236d9a5.css",
-    "main.js": "/static/js/main.5a90c93e.js",
-    "static/js/592.285c0069.chunk.js": "/static/js/592.285c0069.chunk.js",
-    "static/media/front_image2.jpeg": "/static/media/front_image2.adaeb3a6d976b554de09.jpeg",
-    "static/media/hybris-logo.jpeg": "/static/media/hybris-logo.55c1e8e4246fc4541f75.jpeg",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.7236d9a5.css.map": "/static/css/main.7236d9a5.css.map",
-    "main.5a90c93e.js.map": "/static/js/main.5a90c93e.js.map",
-    "592.285c0069.chunk.js.map": "/static/js/592.285c0069.chunk.js.map"
+    "main.css": "./static/css/main.6ae5218a.css",
+    "main.js": "./static/js/main.28e3c419.js",
+    "static/js/592.285c0069.chunk.js": "./static/js/592.285c0069.chunk.js",
+    "static/media/front_image2.jpeg": "./static/media/front_image2.adaeb3a6d976b554de09.jpeg",
+    "static/media/hybris-logo.jpeg": "./static/media/hybris-logo.55c1e8e4246fc4541f75.jpeg",
+    "static/media/logo.svg": "./static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "./index.html",
+    "main.6ae5218a.css.map": "./static/css/main.6ae5218a.css.map",
+    "main.28e3c419.js.map": "./static/js/main.28e3c419.js.map",
+    "592.285c0069.chunk.js.map": "./static/js/592.285c0069.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7236d9a5.css",
-    "static/js/main.5a90c93e.js"
+    "static/css/main.6ae5218a.css",
+    "static/js/main.28e3c419.js"
   ]
 }
