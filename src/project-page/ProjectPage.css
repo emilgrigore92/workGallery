@@ -1,0 +1,47 @@
+.blue-background {
+  background-color: rgba(17, 24, 37, 255);
+  display: flex;
+  flex-direction: column;
+}
+
+.logo img {
+  height: 100%;
+  width: 100%;
+}
+
+.title {
+  font-weight: 500;
+  font-size: 3rem;
+  line-height: 1;
+  color: white;
+}
+
+.description {
+  background-color: rgba(17, 24, 37, 255);
+  margin-top: 100px;
+  letter-spacing: -0.005em;
+  font-size: 1.5rem;
+  color: white;
+
+  flex-grow: 1;
+}
+.parent-row [class^="col-"] {
+  height: 100%;
+}
+.parent-row {
+  display: flex;
+}
+
+@media (max-width: 430px) {
+  .logo img {
+    height: 100%;
+    width: 100%;
+  }
+
+  .logo {
+    display: flex;
+    justify-content: center; /* Horizontally center the image */
+    align-items: center; /* Vertically center the image */
+    width: 100%;
+  }
+}
