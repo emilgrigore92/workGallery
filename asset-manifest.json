@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/workGallery/static/css/main.2ae70960.css",
-    "main.js": "/workGallery/static/js/main.293b4c4a.js",
+    "main.js": "/workGallery/static/js/main.6fb0f4d7.js",
     "static/js/592.285c0069.chunk.js": "/workGallery/static/js/592.285c0069.chunk.js",
     "static/media/front_image2.jpeg": "/workGallery/static/media/front_image2.adaeb3a6d976b554de09.jpeg",
     "static/media/hybris-logo.jpeg": "/workGallery/static/media/hybris-logo.55c1e8e4246fc4541f75.jpeg",
     "static/media/logo.svg": "/workGallery/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/workGallery/index.html",
     "main.2ae70960.css.map": "/workGallery/static/css/main.2ae70960.css.map",
-    "main.293b4c4a.js.map": "/workGallery/static/js/main.293b4c4a.js.map",
+    "main.6fb0f4d7.js.map": "/workGallery/static/js/main.6fb0f4d7.js.map",
     "592.285c0069.chunk.js.map": "/workGallery/static/js/592.285c0069.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2ae70960.css",
-    "static/js/main.293b4c4a.js"
+    "static/js/main.6fb0f4d7.js"
   ]
 }
